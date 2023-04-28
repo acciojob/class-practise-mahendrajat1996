@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
 .selector:nth-child(2n+1){
-	font-color:#00f;
+	color:#00f;
   background-color:#eee;
 }	
